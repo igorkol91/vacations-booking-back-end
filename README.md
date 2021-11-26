@@ -104,7 +104,7 @@ and follow the instructions in the API documentation.
 
 ### Front-end app
 
-This app should run together with [vacations-booking-front-end](https://github.com/danmainah/vacations-booking-front-end) application. Open the [vacations-booking-front-end](https://github.com/danmainah/vacations-booking-front-end) repo and install it localy to complete the full-stack application.
+This app should run together with [vacations-booking-front-end](https://github.com/danmainah/vacations-booking-front-end) application. Open the [vacations-booking-front-end](https://github.com/igorkol91/vacations-booking-front-end) repo and install it localy to complete the full-stack application.
 
 ## 👤👤 Authors
 
