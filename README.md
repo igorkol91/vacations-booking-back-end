@@ -104,9 +104,15 @@ and follow the instructions in the API documentation.
 
 ### Front-end app
 
-This app should run together with [vacations-booking-front-end](https://github.com/danmainah/vacations-booking-front-end) application. Open the [vacations-booking-front-end](https://github.com/igorkol91/vacations-booking-front-end) repo and install it localy to complete the full-stack application.
+This app should run together with the front end repository. Open the [vacations-booking-front-end](https://github.com/igorkol91/vacations-booking-front-end) repo and install it localy to complete the full-stack application.
 
 ## 👤👤 Authors
+
+👤 **Igor Koloski**
+
+- GitHub: [@igorkol91](https://github.com/igorkol91)
+- Twitter: [@Destro49536502]
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Aleksandar Ivezic**
 
@@ -125,12 +131,6 @@ This app should run together with [vacations-booking-front-end](https://github.c
   -  Github: [@mugberto](https://github.com/mugberto)
   -  Twitter: [@mugberto](https://twitter.com/mugberto)
   -  Linkedin: [mugberto](https://www.linkedin.com/in/hubert-mugabo-23144b6a/)
-
-👤 **Igor Koloski**
-
-- GitHub: [@igorkol91](https://github.com/igorkol91)
-- Twitter: [@Destro49536502]
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Daniel Maina**
 
